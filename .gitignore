@@ -1,0 +1,83 @@
+# =============== #
+# Unity generated #
+# =============== #
+/KnifeHitClone/[Ll]ibrary/
+/KnifeHitClone/[Tt]emp/
+/KnifeHitClone/[Oo]bj/
+/KnifeHitClone/[Bb]uild/
+/KnifeHitClone/[Bb]uilds/
+/KnifeHitClone/[Ll]ogs/
+/KnifeHitClone/Assets/AssetStoreTools*
+/KnifeHitClone/UnityPackageManager
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+/KnifeHitClone/.consulo/
+/KnifeHitClone/.vs/
+/KnifeHitClone/ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.tmp
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.vscode
+# ====================== #
+# Gradle cache directory #
+# ====================== #
+/KnifeHitClone/.gradle/
+# ============================= #
+# Unity3D generated meta files  #
+# ============================= #
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+# ======================================== #
+# Unity3D generated file on crash reports  #
+# ======================================== #
+sysinfo.txt
+*.stackdump
+# ======================================== #
+# Crashlytics generated file               #
+# ======================================== #
+crashlytics-build.properties
+# ==================== #
+# Builds               #
+# ==================== #
+*.apk
+*.unitypackage
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+# =============== #
+#      Other      #
+# =============== #
+*.blend1
+*.orig
+*.orig.meta
+*.blend1.meta
+# =============== #
+#    Whiteboard   #
+# =============== #
+KnifeHitClone.rar
+KnifeHitClone.7z
+# =============== #
+#       Rider     #
+# =============== #
+/KnifeHitClone/.idea/
