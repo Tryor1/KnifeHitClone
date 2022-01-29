@@ -98,5 +98,6 @@
 *.xml filter=lfs diff=lfs merge=lfs -text
 #Reference
 *.pur filter=lfs diff=lfs merge=lfs -text
+
 #SubstancePainter
 *.spp filter=lfs diff=lfs merge=lfs -text

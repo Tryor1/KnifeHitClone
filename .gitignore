@@ -9,6 +9,7 @@
 /KnifeHitClone/[Ll]ogs/
 /KnifeHitClone/Assets/AssetStoreTools*
 /KnifeHitClone/UnityPackageManager
+
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
@@ -30,30 +31,36 @@
 *.opendb
 *.VC.db
 *.vscode
+
 # ====================== #
 # Gradle cache directory #
 # ====================== #
 /KnifeHitClone/.gradle/
+
 # ============================= #
 # Unity3D generated meta files  #
 # ============================= #
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+
 # ======================================== #
 # Unity3D generated file on crash reports  #
 # ======================================== #
 sysinfo.txt
 *.stackdump
+
 # ======================================== #
 # Crashlytics generated file               #
 # ======================================== #
 crashlytics-build.properties
+
 # ==================== #
 # Builds               #
 # ==================== #
 *.apk
 *.unitypackage
+
 # ============ #
 # OS generated #
 # ============ #
@@ -65,6 +72,7 @@ crashlytics-build.properties
 ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
+
 # =============== #
 #      Other      #
 # =============== #
@@ -72,12 +80,15 @@ ehthumbs.db
 *.orig
 *.orig.meta
 *.blend1.meta
+
 # =============== #
 #    Whiteboard   #
 # =============== #
 KnifeHitClone.rar
 KnifeHitClone.7z
+
+
 # =============== #
-#       Rider     #
+#       Rider	  #
 # =============== #
 /KnifeHitClone/.idea/
